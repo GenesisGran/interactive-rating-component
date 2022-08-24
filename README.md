@@ -30,7 +30,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-using-html-css-javascript-and-flex-SXye9Ybk0t]
 - Live Site URL: [https://genesisgran.github.io/interactive-rating-component/]
 
 ## Built with
