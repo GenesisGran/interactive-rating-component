@@ -11,10 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Built with](#built-with)
 - [Author](#author)
 
-## Welcome!
-
-Hello there! This is my solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Feel free to give any suggestion or pointing out anything i miss.
-
 ## The challenge
 
 Users should be able to:
@@ -39,7 +35,7 @@ Users should be able to:
 - CSS custom properties
 - JavaScript
 - Flexbox
-- MEdia Query
+- Media Query
 - Mobile-first workflow
 
 ## What I learned
